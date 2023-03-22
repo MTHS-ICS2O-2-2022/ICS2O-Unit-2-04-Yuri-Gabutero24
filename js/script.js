@@ -17,5 +17,5 @@ function calculate() {
   const area = (base * height) / 2
 
   // output
-  document.getElementById ('base-and-height').innerHTML = "The Area is: " + area + " cm²
+  document.getElementById ('base-and-height').innerHTML = "The Area is: " + area + " cm² "
 }
